@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MazenAhmed
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning android development with kotlin
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me mazzzen2009@gmail.com
